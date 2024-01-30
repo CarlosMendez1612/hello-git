@@ -1,2 +1,1 @@
-print("Hello GitHub")
-print("Actualización 2")
+print("Hello GitHub, borré actualización")
